@@ -21,14 +21,15 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Build out the project to the designs provided
 
 ### Screenshot
-
-![](./screenshot.jpg)
-
+## Desktop View
+![DesktopView](images/desktopSS.PNG)
+## Mobile View
+![MobileView](images/mobileSS.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View Code](https://github.com/abhinav-gif/profile-card-component)
+- Live Site URL: [Preview Site](https://abhinav-gif.github.io/profile-card-component/)
 
 ## My process
 
